@@ -14,7 +14,7 @@ import TheWelcome from './components/TheWelcome.vue'
     /> -->
 
     <div class="wrapper">
-      <h1>workflow page!</h1>
+      <h1>Workflow Page Run!</h1>
     </div>
   </header>
 
