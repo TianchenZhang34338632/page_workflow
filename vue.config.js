@@ -1,5 +1,5 @@
   export default defineConfig({
-    base: '',
+    base: '/page_workflow/',
     build: {
       outDir: 'dist'
     },
