@@ -15,6 +15,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <h1>Workflow Page Run!</h1>
+      <h1>add dist</h1>
     </div>
   </header>
 
