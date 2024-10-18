@@ -1,9 +1,3 @@
-module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-      ? '/page_workflow/'
-      : '/'
-  }
-
   export default defineConfig({
     base: '',
     build: {
